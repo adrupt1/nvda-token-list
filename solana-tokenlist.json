@@ -1,3 +1,13 @@
 version https://git-lfs.github.com/spec/v1
 oid sha256:fd309981c8eb1ca07d711e342bbb9718296ec1bf4fd57da3a6e7e6ad12b35279
 size 173846871
+,
+{
+  "chainId": 101,
+  "address": "7gG8LEo1FVegiqjwKrhY8SnnKiwmS8abrS7QL9CjGdJ1",
+  "symbol": "NVDA",
+  "name": "NVIDIA Token",
+  "decimals": 9,
+  "logoURI": "https://cdn.jsdelivr.net/gh/adrupt1/nvda-token-list@master/assets/mainnet/7gG8LEo1FVegiqjwKrhY8SnnKiwmS8abrS7QL9CjGdJ1.png",
+  "tags": ["meme", "community"]
+}
